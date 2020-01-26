@@ -1,2 +1,2 @@
 # poke_maxi
-Im lerning Front-end web development
+Im learning Front-end web development
